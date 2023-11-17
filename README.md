@@ -3,7 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL to find the most popular superhero based on the number of connections in the Movie-Graph file**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL to find the most popular superhero based on the number of connections in the Marevel-Graph file**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
